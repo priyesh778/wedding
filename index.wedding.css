@@ -1,0 +1,105 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: "Raleway", sans-serif;
+}
+.main{
+    background-color:#fff!important;
+    opacity: 0.75;
+    color: rgb(5, 5, 5);
+    display: flex;
+    position: fixed;
+    width: 100%;
+    z-index: 4;
+    bottom: 0%;
+}
+.m1:hover{
+    background-color: rgb(180, 178, 178);
+}
+.m2:hover{
+    background-color: rgb(180, 178, 178);
+}
+.m3:hover{
+    background-color: rgb(180, 178, 178);
+}
+.m4:hover{
+    background-color: rgb(2, 2, 2);
+    color: #fff;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+p{
+    text-align: center;
+}
+.h2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.bg1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+b{
+   font-size: 25px;
+   margin-left: 40%;
+}
+.jj img{
+    margin-left: 16%;
+    filter: grayscale(50%);
+    display: block;
+}
+button{
+    width: 200px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 45%;
+    border: 0px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    background-color: gray;
+    color: black;
+}
+
+.tw{
+    background-color: #ffdddd!important;
+}
+.tw img{
+    margin-left: 16%;
+    display: block;
+    filter: grayscale(50%);
+    border-radius: 8px;
+    margin-top: 5%;
+}
+h2{
+    text-align: center;
+}
+.c1{
+    /* margin-right:40%; */
+    margin-top: 50px;
+    margin-left: 25%;
+}
+.c2{
+    margin-right: 10%;
+    margin-top: 50px;
+    margin-left: 20% ; 
+}
+.rs{
+    margin-top: 10%;
+}
+.rsvp{
+    background-color:#f44336;
+    color: #fff;
+    font-size: large;
+}
+.rsvp button:hover{
+    background-color: gray;
+    color: black;
+}
